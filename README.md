@@ -1,2 +1,2 @@
-# GlobalVaccineViz
-Experimenting with plotting global COVID-19 vaccine data.
+# VaxTheWorld
+An interactive dashboard to track global COVID-19 vaccine progress and other relevant data.
